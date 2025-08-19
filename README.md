@@ -17,4 +17,3 @@ g for Gun
 
 The computer will randomly choose its move, and the winner of each round will be displayed.
 
-![Screenshot 2025-08-19 173352.png](../../Pictures/Screenshots/Screenshot%202025-08-19%20173352.png)
